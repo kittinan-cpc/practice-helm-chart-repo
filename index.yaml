@@ -3,6 +3,16 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-22T09:02:58.192388373Z"
+    description: A Helm chart for Kubernetes
+    digest: 800f06faec02f3aee946abc040193aafb3b4929fd3da63d2c1e52e2eece05e63
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/kittinan-cpc/practice-helm-chart-repo/releases/download/hello-world-2.0.0/hello-world-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-22T09:00:43.232006708Z"
     description: A Helm chart for Kubernetes
     digest: 7b77eec22c71b0797d2749d98f90adc653a1857ffab425cb0a7f7667134d2bb7
