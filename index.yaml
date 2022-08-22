@@ -21,4 +21,15 @@ entries:
     urls:
     - https://github.com/kittinan-cpc/practice-helm-chart-repo/releases/download/hello-world-1.0.0/hello-world-1.0.0.tgz
     version: 1.0.0
+  unicorn-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-22T09:19:28.367162917Z"
+    description: A Helm chart for Kubernetes
+    digest: 5a15b26eedf4582481aea40777f3cf664767a2203efbc4f15c9178eb5df37ed5
+    name: unicorn-helm-chart
+    type: application
+    urls:
+    - https://github.com/kittinan-cpc/practice-helm-chart-repo/releases/download/unicorn-helm-chart-1.0.0/unicorn-helm-chart-1.0.0.tgz
+    version: 1.0.0
 generated: "2022-08-22T09:00:43.056434809Z"
